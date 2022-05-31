@@ -15,3 +15,9 @@ go test -bench=.
 ```sh
 go test -cover
 ```
+
+## Race Detector
+
+```sh
+go test -race
+```
