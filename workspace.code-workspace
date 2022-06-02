@@ -1,56 +1,59 @@
 {
   "folders": [
-		{
-			"path": "hello-world"
-		},
-		{
-			"path": "integers"
-		},
-		{
-			"path": "iteration"
-		},
-		{
-			"path": "arrays"
-		},
-		{
-			"path": "structs"
-		},
-		{
-			"path": "pointers"
-		},
-		{
-			"path": "maps"
-		},
-		{
-			"path": "dependency-injection"
-		},
-		{
-			"path": "mocking"
-		},
-		{
-			"path": "concurrency"
-		},
-		{
-			"path": "select"
-		},
-		{
-			"path": "reflection"
-		},
-		{
-			"path": "sync"
-		},
-		{
-			"path": "context"
-		},
-		{
-			"path": "roman-numerals"
-		},
-		{
-			"path": "blogposts"
-		},
-		{
-			"path": "blogrenderer"
-		}
-	],
+    {
+      "path": "hello-world"
+    },
+    {
+      "path": "integers"
+    },
+    {
+      "path": "iteration"
+    },
+    {
+      "path": "arrays"
+    },
+    {
+      "path": "structs"
+    },
+    {
+      "path": "pointers"
+    },
+    {
+      "path": "maps"
+    },
+    {
+      "path": "dependency-injection"
+    },
+    {
+      "path": "mocking"
+    },
+    {
+      "path": "concurrency"
+    },
+    {
+      "path": "select"
+    },
+    {
+      "path": "reflection"
+    },
+    {
+      "path": "sync"
+    },
+    {
+      "path": "context"
+    },
+    {
+      "path": "roman-numerals"
+    },
+    {
+      "path": "blogposts"
+    },
+    {
+      "path": "blogrenderer"
+    },
+    {
+      "path": "generics"
+    }
+  ],
   "settings": {}
 }
